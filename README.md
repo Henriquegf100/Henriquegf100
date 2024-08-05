@@ -14,7 +14,7 @@ Linguagem de programação atuando:
 
 <a href=https:///henriquegf100.github.io/Portifolio/>Acesse aqui</a>
 
-![Meu Portfólio](https://media.licdn.com/dms/image/D4D22AQG3iqGgix9Ipg/feedshare-shrink_800/0/1719779255805?e=1722470400&v=beta&t=DC0BlU59DailrQXcRTc68JnP16c0n4zYIJYY8hJqPH4)
+![Meu Portfólio](https://github.com/Henriquegf100/Portifolio/blob/main/images/layout-project.png)
 
 
 [![Henrique stats](https://github-readme-stats.vercel.app/api?username=Henriquegf100)](https://github.com/anuraghazra/github-readme-stats)
